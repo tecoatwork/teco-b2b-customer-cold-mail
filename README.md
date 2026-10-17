@@ -1,4 +1,4 @@
-# teco-target-customer-cold-mail
+# teco-b2b-customer-cold-mail
 
 将公司与产品优势、客户背景调查、触达切入点和FABMP结合，生成5封针对性B2B开发信。
 
@@ -18,14 +18,14 @@ Copyright (c) 2026 tecoatwork
 
 ## 安装与依赖
 
-把本目录放入助手的技能目录，文件夹名为 `teco-target-customer-cold-mail`。Codex常用目录为 `~/.codex/skills/`。
+把本目录放入助手的技能目录，文件夹名为 `teco-b2b-customer-cold-mail`。Codex常用目录为 `~/.codex/skills/`。
 
 同时安装 [teco-target-customer-analyse](https://github.com/tecoatwork/teco-target-customer-analyse)。需要可用的联网搜索/阅读能力才能重新核查目标现状；没有联网时可分析用户提供的有来源资料，并明确限制。不需要邮件账号或CRM访问。
 
 ## 使用示例
 
 ```text
-使用 $teco-target-customer-cold-mail。
+使用 $teco-b2b-customer-cold-mail。
 我方公司：[公司与可对外披露实力]
 主推产品：[型号、差异化卖点、测试或案例]
 目标客户：[公司官网]

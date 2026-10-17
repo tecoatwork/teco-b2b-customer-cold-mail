@@ -1,5 +1,5 @@
 ---
-name: teco-target-customer-cold-mail
+name: teco-b2b-customer-cold-mail
 description: 结合我方公司与产品证据，使用 teco-target-customer-analyse 核实目标客户及联系人，按触达切入点和 FABMP 生成5封针对性B2B开发信的标题与正文。用于外贸首触达、分角色开发信和用户指定的跟进序列；只起草，不发送。
 ---
 
